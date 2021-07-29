@@ -1,3 +1,3 @@
 # portafolioRS
 
-https://hernancalvo.github.io/portafolioRS/
+https://suspicious-poincare-97db23.netlify.app/
